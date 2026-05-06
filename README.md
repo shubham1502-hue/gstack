@@ -1,5 +1,25 @@
 # gstack
 
+## Problem This Solves
+
+AI-assisted builders need repeatable agent workflows for planning, reviewing, testing, documenting, and shipping. A blank chat box does not behave like an operating system.
+
+## How It Helps
+
+- This fork keeps a public reference to gstack, an upstream AI-agent workflow toolkit originally built by Garry Tan.
+- It is useful as a study/reference repo for how founder-grade AI coding workflows are packaged into repeatable commands and skills.
+- It should not be read as my original portfolio product; it is a fork I keep available for learning and workflow adaptation.
+
+## When To Fork This
+
+- Fork this only if you want to experiment with the gstack workflow stack or adapt the upstream project for your own AI coding setup.
+- If you want the canonical project, fork upstream from garrytan/gstack.
+- If you are evaluating my work, prioritize my original founder/operator repos pinned on my profile.
+
+## Upstream README
+
+The original upstream README starts below. I have kept it intact so the fork remains understandable and attributable.
+
 > "I don't think I've typed like a line of code probably since December, basically, which is an extremely large change." — [Andrej Karpathy](https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/), No Priors podcast, March 2026
 
 When I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twenty? Peter Steinberger built [OpenClaw](https://github.com/openclaw/openclaw) — 247K GitHub stars — essentially solo with AI agents. The revolution is here. A single builder with the right tooling can move faster than a traditional team.
